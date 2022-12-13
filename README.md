@@ -30,6 +30,8 @@ Testing the webserver
 
 ## OUTPUT:
 
+![Output]("./images/webserver1.png")
+
 ## RESULT:
 
 The program is executed succesfully
