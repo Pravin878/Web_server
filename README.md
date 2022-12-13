@@ -30,7 +30,6 @@ Testing the webserver
 
 ## OUTPUT:
 
-![Output](./images/webserver1.png)
 
 ## RESULT:
 
